@@ -1,0 +1,9 @@
+.photo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+header {
+  margin-bottom: 5rem;
+}

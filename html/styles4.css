@@ -1,0 +1,2244 @@
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid var(--green-main);
+  box-shadow: 0 0 1px 1px inset var(--grey-1);
+}
+
+.opponents {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--green-main);
+  flex: 1;
+}
+
+.opponent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0.5rem 1rem;
+
+  border-bottom: 1px solid var(--green-main);
+}
+
+.opponent:last-child {
+  border-bottom: none;
+}
+
+.opponent-name {
+
+}
+
+.result-detail {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.points {
+
+}
+
+.victory, .draw, .lose {
+  display: flex;
+}
+
+.victory svg {
+  fill: green;
+}
+
+.draw svg {
+  fill: grey;
+}
+
+.lose svg {
+  fill: red;
+}
+
+.match-status {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.action-icon {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+
+  padding: 0.3rem;
+  border-radius: 1rem;
+
+  transition: all 200ms ease-in;
+}
+
+.action-icon:hover {
+  background-color: var(--grey-2);
+}
